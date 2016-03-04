@@ -253,7 +253,8 @@ Our channels
 ]],
     help_text_realm = [[
 Realm Commands:
-
+!lock link
+lock links
 !creategroup [Name]
 Create a group
 
